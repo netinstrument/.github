@@ -1,3 +1,5 @@
+![Logo](./netprof.png)
+
 # netinstrument
 
 Instrumentation tools for .NET
